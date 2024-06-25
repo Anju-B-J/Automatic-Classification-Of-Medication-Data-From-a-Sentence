@@ -1,9 +1,5 @@
-/* Sidebar styling */
-
-
-/* Background image styling */
 .stApp {
-    background-image: url('https://i.postimg.cc/wMmKLJdz/Untitled-design.jpg'); /* Replace with your image URL */
+    background-image: url('https://i.postimg.cc/wMmKLJdz/Untitled-design.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
